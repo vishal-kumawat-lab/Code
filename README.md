@@ -1,5 +1,3 @@
-#/# Node.js Application Deployment using Docker, Terraform & GitHub Actions
-
 ## Project Overview
 This project demonstrates a complete DevOps workflow starting from application containerization to cloud deployment and CI automation.
 
