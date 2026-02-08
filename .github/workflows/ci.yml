@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Build Docker image
-        run: docker build -t node-app .
+        run: docker build -t 8byte-intern-app .
