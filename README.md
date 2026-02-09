@@ -19,8 +19,6 @@ The high-level architecture of the project is:
 - GitHub Actions builds and pushes Docker images to Docker Hub
 - EC2 pulls the Docker image from Docker Hub and runs the container
 
-### Architecture Diagram
-
 ---
 
 ## Prerequisites
