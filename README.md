@@ -6,7 +6,6 @@ A simple Node.js (Express) application is containerized using Docker, AWS infras
 
 ---
 
-## Architecture Overview
 The high-level architecture of the project is:
 
 - Node.js application packaged as a Docker image
